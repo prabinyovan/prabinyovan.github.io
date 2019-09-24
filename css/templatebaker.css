@@ -159,8 +159,9 @@ a:focus {
     font-weight: 200;
 }
 .tb-header-container {
-    background-image: url(../img/tb-header-bg.jpg);
+    /*background-image: url(../img/tb-header-bg.jpg);*/
     /*background-image: url(../img/tb-prabin.png);*/
+    background-image: url('https://supplywizardsstorage.blob.core.windows.net/siteassets/Prabin.jpeg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
@@ -168,7 +169,7 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    padding: 350px 0;
+    padding: 500px 0;
     color: #ffffff;
 }
 
